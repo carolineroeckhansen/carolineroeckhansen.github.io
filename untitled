@@ -1,0 +1,59 @@
+h1{
+		font-size: 5rem;
+		font-family: futura,helvetica;
+		color: #f8e03e;
+		margin:0;
+	}
+p{
+	font-size: 2rem;
+	font-family: futura,helvetica;
+}
+.intro p{
+		color: #f8e03e;
+	}
+
+	.mapintro {
+		position: absolute;
+	top: 40%;
+	left: 0;
+	width: 100%;
+	}
+
+.section{
+		text-align:center;
+	}
+	.controlArrow.prev {
+		left: 100px !important;
+	}
+	.controlArrow.next{
+		right: 200px !important;
+	}
+	#infoMenu li a {
+		color: #f8e03e;
+	}
+
+.ct-chart{
+	margin-left: 20px;
+	font-family: futura, helvetica;
+	font-size: 30px !important;
+	ct-text-size: 1 rem;
+}
+
+.ct-series-a .ct-line {
+  /* Set the colour of this series line */
+  stroke: #000000 !important;
+}
+
+.ct-series-b .ct-line {
+	stroke: #000000 !important;
+}
+
+.ct-series-c .ct-line {
+	stroke: #000000 !important;
+}
+
+.ct-series-d .ct-line {
+	stroke: #000000 !important;
+}
+
+
